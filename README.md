@@ -22,3 +22,7 @@ Ethereum and Smart Contracts:<br />
 * Rockpapsci.sol: original rock paper scissors, takes your choice, and emits result
 * Weightedrps.sol: weighted so that higher transfers have higher chances of winning
 * contract.js: js file which runs Rockpapsci.sol in truffle
+
+Full Blockchain:
+* MakeMerkleTree.py: updated merkle maker
+* blockchain.py: full blockchain program, with a flask app inside
