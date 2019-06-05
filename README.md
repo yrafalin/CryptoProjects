@@ -26,3 +26,6 @@ Ethereum and Smart Contracts:<br />
 Full Blockchain:
 * MakeMerkleTree.py: updated merkle maker
 * blockchain.py: full blockchain program, with a flask app inside
+
+Final Project (Smart Contract Implementation):
+* RunSmartContract.py: profiles and runs smart contract while accounting for gas allowance
